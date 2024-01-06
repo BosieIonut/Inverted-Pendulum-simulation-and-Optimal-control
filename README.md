@@ -7,7 +7,7 @@ I simulated an inverted pendulum and controled it with an linear quadratic regul
 
 The simulation was made using SFML library in C++.
 
-The diferential equations for the cart are:
+The diferential equations for the cart are:<br>
 ![image](https://github.com/BosieIonut/Inverted-Pendulum-simulation-and-Optimal-control/assets/33691449/0ff085ce-68f3-4da9-b4ed-9767878cebff)
 <br>
 ![image](https://github.com/BosieIonut/Inverted-Pendulum-simulation-and-Optimal-control/assets/33691449/4e0d6469-eb22-41eb-b1db-7684edf11a9d)
