@@ -12,7 +12,13 @@ The diferential equations for the cart are:<br>
 <br>
 ![image](https://github.com/BosieIonut/Inverted-Pendulum-simulation-and-Optimal-control/assets/33691449/4e0d6469-eb22-41eb-b1db-7684edf11a9d)
 
+For the simulation I solved those diferential equiations using EULER method.
+
+![image](https://github.com/BosieIonut/Inverted-Pendulum-simulation-and-Optimal-control/assets/33691449/fe6fefda-8aa9-43e7-bcc6-acbadcfc9fd4)
+
+![image](https://github.com/BosieIonut/Inverted-Pendulum-simulation-and-Optimal-control/assets/33691449/e24e1605-23ff-47d4-bf24-8caef063426d)
+
 I liniarized them to obtain an liniar model in the up position.
-The LQR weights were computed in matlab
+The LQR weights were computed in matlab.
 
 
